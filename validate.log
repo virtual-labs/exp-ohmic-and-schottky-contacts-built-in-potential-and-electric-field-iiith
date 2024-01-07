@@ -1,0 +1,14 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-ohmic-and-schottky-contacts-built-in-potential-and-electric-field-iiith/exp-ohmic-and-schottky-contacts-built-in-potential-and-electric-field-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-ohmic-and-schottky-contacts-built-in-potential-and-electric-field-iiith/exp-ohmic-and-schottky-contacts-built-in-potential-and-electric-field-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Json Error: There are additional properties
+Json Error: must match "then" schema
+Failed while validating /home/runner/work/exp-ohmic-and-schottky-contacts-built-in-potential-and-electric-field-iiith/exp-ohmic-and-schottky-contacts-built-in-potential-and-electric-field-iiith/experiment-descriptor.json
+Error: Schema is Invalid
